@@ -12,4 +12,4 @@ with open('sample.csv', 'r') as csvfile:
             break
     
     if not found:
-        print(f"{search_name} は見つかりませんでした。")
+        print(f"{search_name} は見つからんかたったわ。")
