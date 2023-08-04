@@ -13,3 +13,6 @@ with open('sample.csv', 'r') as csvfile:
     
     if not found:
         print(f"{search_name} は見つかりませんでした。")
+
+
+#やっとできた
